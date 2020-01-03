@@ -2,7 +2,7 @@
 
 ## Gitbook Template
 
-* [Part 1](wiki/README.md)
+* [Wiki](wiki/README.md)
 
 ## Tags
 
