@@ -1,8 +1,8 @@
 # Summary
 
-## Gitbook Demo
+## Gitbook Template
 
-* [Part 1](part1/README.md)
+* [Part 1](wiki/README.md)
 
 ## Tags
 
